@@ -1,1 +1,1 @@
-# Chatting-Program
+Tcp/Ip 를 이용하여 구현한 채팅 프로그램
